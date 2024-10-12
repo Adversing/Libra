@@ -1,4 +1,4 @@
-# Libra: Advanced Queue Load Balancer
+# ⚖️ Libra: Advanced Queue Load Balancer
 
 Libra is a powerful and flexible queue load balancing library for Java applications. It provides a robust solution for managing and processing large volumes of queued items with advanced features like prioritization, rate limiting, circuit breaking, and retry mechanisms.
 
